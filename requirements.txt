@@ -1,0 +1,8 @@
+pandas
+numpy
+yfinance
+beautifulsoup4
+requests
+lxml
+plotly
+kaleido
